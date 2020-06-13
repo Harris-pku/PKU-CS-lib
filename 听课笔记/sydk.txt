@@ -1,0 +1,5 @@
+python -m pip install --upgrade pip                       pip_upgrade
+activate tensorflow                                                  enter tensorflow
+deactivate tensorflow                                              quit tensorflow
+conda create -n tensorflow python=3.7                 install tensorflow
+conda --version
